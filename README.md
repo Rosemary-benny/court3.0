@@ -1,8 +1,8 @@
 <p id="start" align="center">
 <br>
-<a href="#start"><img height="130rem" src="./docs/Screenshot from 2022-02-27 09-41-17.png"></a>
+# Court 3.0 🔐
 <br><br>
-<a align="center">Curia is a blockchain-based evidence management system to prevent manipulation in Indian courts.</a>
+<a align="center">Court 3.0 is a blockchain-based evidence management system to prevent manipulation in Indian courts.</a>
 <br><br>
 <a>This Decentralized Application can be used to upload evidence by users against any case number. As blockchain technology is used, the data cannot be changed after it has been successfully uploaded to the blockchain network. This creates a digital trail from the collection of evidence at the crime scene, all the way to court</a>
 <h1></h1>
@@ -32,29 +32,14 @@
 </p>
 
 
-<h2>Get started❓</h2>
-
-1. Open [Curia](http://hashir.metainc.in/secureX) in your browser.
-
-2. Login to your MetaMask and add Polygon to your Metamask networks.
-[How to add Polygon network to Metamask?](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)
-
-3. Go to [Polygon Faucet](https://faucet.polygon.technology/) and paste your wallet address to obtain MATIC for testing.
-
-4. Connect Curia website to Metamask.
-
-5. Go ahead and explore Curia.
-
-
-
 <h2>Installing and Running Locally 🛠️</h2>
 
 1. Clone the repository.
 ```
-https://github.com/adhilcodes/curia.git
+https://github.com/Rosemary-benny/court3.0.git
 ```
 
-2. Go to the cloned directory (e.g. `cd Curia`).
+2. Go to the cloned directory (e.g. `cd court3.0`).
 
 3. Run ```npm install``` to install all the dependencies.
 
@@ -71,7 +56,7 @@ npm run start
 
 8. Connect MetaMask to your localhost.
 
-9. Go ahead and explore Curia.
+9. Go ahead and explore Court3.0.
 
 
 ## Technologies used 💻:
