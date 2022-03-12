@@ -1,19 +1,26 @@
-<p id="start" align="center">
+<!-- markdownlint-configure-file {
+  "MD013": {
+    "code_blocks": false,
+    "tables": false
+  },
+  "MD033": false,
+  "MD041": false
+} -->
+<div align="center">
 <br>
-# Court 3.0 🔐
+    <h1>Court 3.0 🔐</h1>
 <br><br>
 <a align="center">Court 3.0 is a blockchain-based evidence management system to prevent manipulation in Indian courts.</a>
 <br><br>
 <a>This Decentralized Application can be used to upload evidence by users against any case number. As blockchain technology is used, the data cannot be changed after it has been successfully uploaded to the blockchain network. This creates a digital trail from the collection of evidence at the crime scene, all the way to court</a>
 <h1></h1>
-</p>
+</div>
 
 <a title="License MIT" href="https://github.com/adhilcodes/Cuira/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square"></a>
 <a title="Latest release" href="https://github.com/adhilcodes/Cuira/releases"><img src="https://img.shields.io/github/v/release/xnbox/DeepfakeHTTP?style=flat-square&color=28A745"></a>
 <br>
 <p id="banner" align="center">
 <br>
-<a href="#banner"><img width="98%" src="https://raw.githubusercontent.com/xnbox/DeepfakeHTTP/main/img/text.png" alt="YOUR 100% STATIC DYNAMIC BACKEND"></a>
 <table>
 <tr>
 <td>
